@@ -4,7 +4,14 @@ Hi 👋 My name is António Rodrigues
 Data Scientist
 --------------
 
-I am a passionate Data Scientist, Python Programmer, and Data Analyst with a knack for turning complex data into actionable insights. With a strong foundation in statistical analysis, machine learning, deep learning and data visualization, I thrive on solving intricate problems and making data-driven decisions. As a Data Scientist, I specialize in building predictive models, performing in-depth data analysis, and applying machine learning algorithms to uncover hidden patterns in data. In addition , I have experience in Golang development, which allows me to create high-performance applications. My skill set extends to HTML, CSS, and SQL, enabling me to build and style web interfaces, manage databases, and perform complex queries efficiently. I am well-versed in API frameworks like Flask, which I use to develop and deploy scalable web applications. My comprehensive knowledge of different programming languages and technologies makes me adaptable and versatile in tackling various technical challenges.
+I am a passionate Data Scientist, Python Programmer, and Data Analyst with a knack for turning complex data into actionable insights.
+With a strong foundation in statistical analysis, machine learning, deep learning and data visualization, I thrive on solving intricate problems and making data-driven decisions.
+As a Data Scientist, I specialize in building predictive models, performing in-depth data analysis, and applying machine learning algorithms to uncover hidden patterns in data.
+
+In addition , I have experience in Golang development, which allows me to create high-performance applications.
+My skill set extends to HTML, CSS, and SQL, enabling me to build and style web interfaces, manage databases, and perform complex queries efficiently.
+
+I am well-versed in API frameworks like Flask, which I use to develop and deploy scalable web applications. My comprehensive knowledge of different programming languages and technologies makes me adaptable and versatile in tackling various technical challenges.
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [MyPortfolio](http://www.datascienceportfol.io/AntonioRodrigues)
