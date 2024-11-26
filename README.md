@@ -15,7 +15,6 @@ I am well-versed in API frameworks like Flask, which I use to develop and deploy
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [MyPortfolio](http://www.datascienceportfol.io/AntonioRodrigues)
-* ✉️  You can contact me at [antoniobsrodrigues@hotmail.com](mailto:antoniobsrodrigues@hotmail.com)
 
 ### Skills
 
