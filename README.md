@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/Z2CilZh.gif" width="800">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBpbDV5aDFqYjR2OGo3ZWptZ3UxZGt4dHg3aGVoYmR6MjBsMnRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="800">
 
 </div>
 
