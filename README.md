@@ -1,6 +1,6 @@
 <!-- DARK HACKER HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qj8Jk4C0uYxZC/giphy.gif" width="600" />
+  <img src="https://giphy.com/gifs/mr-robot-showmax-J8t9H4Z7Wp3fq" width="600" />
 </p>
 
 <h1 align="center">👾 root4win — Hack The Planet</h1>
