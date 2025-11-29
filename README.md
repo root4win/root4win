@@ -1,60 +1,111 @@
-<!-- DARK HACKER HEADER -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFwYThuc2h6ZHFkazczczVjbjdnbDd1bzA4cjJrcTBuYXF1N2ttNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8t9H4Z7Wp3fq/giphy.gif" width="600" />
-</p>
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗  ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗██╗███╗   ██╗       ║
+║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██║████╗  ██║       ║
+║   ██████╔╝██║   ██║██║   ██║   ██║   ███████║██║ █╗ ██║██║██╔██╗ ██║       ║
+║   ██╔══██╗██║   ██║██║   ██║   ██║   ╚════██║██║███╗██║██║██║╚██╗██║       ║
+║   ██║  ██║╚██████╔╝╚██████╔╝   ██║        ██║╚███╔███╔╝██║██║ ╚████║       ║
+║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝        ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝       ║
+║                                                                              ║
+║                    ▓▓▓▓▓▓  SYSTEM BREACH INITIATED  ▓▓▓▓▓▓                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<h1 align="center">👾 root4win — Hack The Planet</h1>
+<div align="center">
 
-<p align="center">
-  <i>"Control is an illusion. Chaos is the only truth." — Mr. Robot</i>
-</p>
+```
+[ENCRYPTED TRANSMISSION DETECTED]
+>>> ACCESS GRANTED: CLEARANCE LEVEL OMEGA <<<
+"In a world of locked doors, the man with the key is king."
+```
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=CYBERSECURITY+RESEARCHER;PENETRATION+TESTER;CTF+PLAYER;DIGITAL+GHOST)](https://git.io/typing-svg)
 
-# 💻 Tech Stack
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 🕳️ **THE VOID WELCOMES YOU**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=dark&hide_border=true&layout=compact" />
-</p>
+```python
+class ShadowOperator:
+    def __init__(self):
+        self.identity = "CLASSIFIED"
+        self.location = "UNKNOWN"
+        self.motive = "Knowledge is power. Power is freedom."
+    
+    def infiltrate(self, target):
+        return f"[!] Establishing connection to {target}..."
+```
 
 ---
 
-# 🐍 Snake Activity
+## 🛠️ **ARSENAL**
+
+<div align="center">
+
+### ⚔️ WEAPONS OF CHOICE
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)
+
+### 🔐 EXPLOITATION FRAMEWORKS
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### 🗄️ DATA EXFILTRATION
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DD0031)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+### 🧠 NEURAL WARFARE
+
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+</div>
+
+---
+
+## 📡 **SIGNAL INTELLIGENCE**
+
+<div align="center">
+
+```
+[SCANNING NETWORK ACTIVITY...]
+[████████████████████████████] 100%
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=blood-dark&hide_border=true&background=0D1117&ring=00FF00&fire=FF0000&currStreakLabel=00FF00" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF0000&layout=compact" />
+
+```
+[CONNECTION ESTABLISHED]
+[STEALTH MODE: ACTIVE]
+```
+
+</div>
+
+---
+
+## 🐍 **INFILTRATION PATTERN**
+
+<div align="center">
+
+```
+[DEPLOYING PAYLOAD...]
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -62,17 +113,86 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+```
+[PAYLOAD DELIVERED SUCCESSFULLY]
+```
+
+</div>
+
 ---
 
-# 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=grey&style=flat)
+## 🎯 **MISSION OBJECTIVES**
+
+```bash
+$ cat /var/log/missions.txt
+
+[✓] Penetration Testing & Vulnerability Research
+[✓] CTF Competitions & Wargames
+[✓] Reverse Engineering & Malware Analysis
+[✓] AI/ML Security Research
+[✓] Cryptography & Steganography
+[~] ██████████ [REDACTED] ██████████
+```
 
 ---
 
-# ⚠️ Disclaimer
-All content, especially CTF reports, is **for educational purposes only**.  
-Unauthorized access to systems is **illegal** and not supported.
+## 💀 **TRANSMISSION LOG**
 
-<p align="center">
-  <b>💀 Happy Hacking 💀</b>
-</p>
+<div align="center">
+
+```
+┌─[root@void]─[~]
+└──╼ $ whoami
+>>> ANONYMOUS
+
+┌─[root@void]─[~]
+└──╼ $ cat motto.txt
+>>> "We are the architects of our own oblivion."
+
+┌─[root@void]─[~]
+└──╼ $ echo $IDEOLOGY
+>>> Knowledge should be free. Security through obscurity is a lie.
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=black&style=for-the-badge&label=SURVEILLANCE+DETECTED)
+
+</div>
+
+---
+
+## ⚠️ **[CLASSIFIED INFORMATION]**
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    ⚠️  LEGAL NOTICE  ⚠️                     ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  All methodologies, techniques, and tools documented      ║
+║  are strictly for EDUCATIONAL and AUTHORIZED purposes.    ║
+║                                                            ║
+║  Unauthorized access to computer systems is ILLEGAL.      ║
+║                                                            ║
+║  Use this knowledge responsibly and ethically.            ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║     "The quieter you become, the more you can hear."     ║
+║                                                           ║
+║              [END OF TRANSMISSION]                        ║
+║                                                           ║
+║                    ▓▓▓▓▓▓▓▓▓▓▓                            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+**🌐 STAY GHOST 🌐**
+
+</div>
