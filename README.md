@@ -237,7 +237,7 @@ root@shadow:~# exit
 
 ## 🎯 OPERATIONS
 
-<img src="https://media.giphy.com/media/3o6Ztk7NosfOspHHIk/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="450">
 
 </div>
 
