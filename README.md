@@ -1,31 +1,3 @@
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗  ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗██╗███╗   ██╗       ║
-║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██║████╗  ██║       ║
-║   ██████╔╝██║   ██║██║   ██║   ██║   ███████║██║ █╗ ██║██║██╔██╗ ██║       ║
-║   ██╔══██╗██║   ██║██║   ██║   ██║   ╚════██║██║███╗██║██║██║╚██╗██║       ║
-║   ██║  ██║╚██████╔╝╚██████╔╝   ██║        ██║╚███╔███╔╝██║██║ ╚████║       ║
-║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝        ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝       ║
-║                                                                              ║
-║                    ▓▓▓▓▓▓  SYSTEM BREACH INITIATED  ▓▓▓▓▓▓                  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-```
-[ENCRYPTED TRANSMISSION DETECTED]
->>> ACCESS GRANTED: CLEARANCE LEVEL OMEGA <<<
-"In a world of locked doors, the man with the key is king."
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=CYBERSECURITY+RESEARCHER;PENETRATION+TESTER;CTF+PLAYER;DIGITAL+GHOST)](https://git.io/typing-svg)
-
-</div>
-
----
 <div align="center">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="5">
