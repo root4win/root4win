@@ -2,38 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROOT4WIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SYSTEM%20BREACH%20IN%20PROGRESS&descAlignY=51&descAlign=50"/>
 
+</div>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀
-⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀
-⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀
-⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀
-⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀
-⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
-⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀
-⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀
-⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀
-⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀
-⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠿⠿⠿⠿⠿⠿⠿⠿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</div>
 
-    ██████╗  ██████╗  ██████╗ ████████╗    ██╗  ██╗    ██╗    ██╗██╗███╗   ██╗
-    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██║  ██║    ██║    ██║██║████╗  ██║
-    ██████╔╝██║   ██║██║   ██║   ██║       ███████║    ██║ █╗ ██║██║██╔██╗ ██║
-    ██╔══██╗██║   ██║██║   ██║   ██║       ╚════██║    ██║███╗██║██║██║╚██╗██║
-    ██║  ██║╚██████╔╝╚██████╔╝   ██║            ██║    ╚███╔███╔╝██║██║ ╚████║
-    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝            ╚═╝     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
-```
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=800&lines=PENETRATION+TESTER+%7C+RED+TEAM;CTF+PLAYER+%7C+BUG+HUNTER;MALWARE+ANALYST+%7C+OSINT;%5BACCESS+GRANTED%5D+SYSTEM+BREACHED)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=800&height=100&lines=PENETRATION+TESTER+%7C+RED+TEAM;CTF+PLAYER+%7C+BUG+HUNTER;MALWARE+ANALYST+%7C+OSINT;SOCIAL+ENGINEER+%7C+GHOST;%5BACCESS+GRANTED%5D+SYSTEM+BREACHED)](https://git.io/typing-svg)
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -48,17 +33,29 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">⚔️ CYBER ARSENAL</div>
 
 <div align="center">
 
-## ⚔️ CYBER ARSENAL
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🔥 PRIMARY WEAPONS
 
@@ -93,15 +90,21 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">📊 NETWORK ACTIVITY DETECTED</div>
 
 <div align="center">
-
-## 📊 NETWORK ACTIVITY DETECTED
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
@@ -109,27 +112,63 @@
 [████████████████████████████████] 100% - SCANNING COMPLETE
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=chartreuse-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=00FF00" width="500"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF00&icon_color=39FF14&layout=compact&langs_count=8" width="500"/>
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=root4win&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF00&icon_color=39FF14" width="500"/>
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=root4win&bg_color=000000&color=39FF14&line=00FF00&point=39FF14&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">🐍 INFILTRATION PATTERN</div>
 
 <div align="center">
-
-## 🐍 INFILTRATION PATTERN
 
 ```
 [DEPLOYING STEALTH PAYLOAD...]
 ```
+
+</div>
+
+<br>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -137,21 +176,39 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" />
 </picture>
 
+</div>
+
+<br>
+
+<div align="center">
+
 ```
 [PAYLOAD EXECUTED - TRACE ELIMINATED]
 ```
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">💀 TERMINAL ACCESS</div>
 
 <div align="center">
 
-## 💀 TERMINAL ACCESS
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```bash
 ┌──(root㉿shadow)-[~]
@@ -160,7 +217,8 @@
 
 ┌──(root㉿shadow)-[~]
 └─$ cat /etc/shadow | grep -i motive  
->>> "The only way to discover the limits of the possible is to go beyond them into the impossible."
+>>> "The only way to discover the limits of the possible
+    is to go beyond them into the impossible."
 
 ┌──(root㉿shadow)-[~]
 └─$ systemctl status ethics.service
@@ -177,17 +235,29 @@
 [Connection terminated]
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">🎯 CURRENT OPERATIONS</div>
 
 <div align="center">
 
-## 🎯 CURRENT OPERATIONS
-
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 [█████████░] 90% → Advanced Persistent Threat Research
@@ -197,17 +267,29 @@
 [██████████] 100% → Maintaining Anonymity
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
+
+## <div align="center">🔐 SECURITY ADVISORY</div>
 
 <div align="center">
 
-## 🔐 SECURITY ADVISORY
-
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41a2-99c3-5c2ee55e09bc.gif" width="400">
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -225,13 +307,25 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=0e1117&style=for-the-badge&label=◈+SURVEILLANCE+DETECTED+◈)
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=0e1117&style=for-the-badge&label=SURVEILLANCE+DETECTED)
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -244,4 +338,31 @@
 ║                                                              ║
 ║                    [CONNECTION CLOSED]                       ║
 ║                                                              ║
-╚════════
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💀 STAY ANONYMOUS - STAY SHARP - STAY GHOST 💀
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
