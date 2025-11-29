@@ -58,7 +58,7 @@
 
 ---
 
-## 🐍 System Activity (Snake Animation)
+## 🐍 System Activity
 
 <p align="center">
   <picture>
