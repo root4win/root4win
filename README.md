@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://i.imgur.com/Z2CilZh.gif" width="800">
 
 </div>
 
@@ -67,7 +67,7 @@
 
 ## ⚔️ ARSENAL
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="450">
 
 </div>
 
@@ -112,7 +112,7 @@
 
 ## 📡 NETWORK TRACE
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="450">
 
 </div>
 
@@ -195,7 +195,7 @@
 
 ## 💀 SHELL
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="450">
 
 </div>
 
@@ -237,7 +237,7 @@ root@shadow:~# exit
 
 ## 🎯 OPERATIONS
 
-<img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/3o6Ztk7NosfOspHHIk/giphy.gif" width="450">
 
 </div>
 
@@ -269,7 +269,7 @@ root@shadow:~# exit
 
 ## ⚠️ DISCLAIMER
 
-<img src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="350">
 
 </div>
 
