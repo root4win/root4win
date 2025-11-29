@@ -98,7 +98,7 @@
 >>> "We are the architects of our own oblivion."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=black&style=for-the-badge&label=SURVEILLANCE+DETECTED)
+![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=0e1117&style=for-the-badge&label=SURVEILLANCE+DETECTED)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="5">
 
