@@ -168,14 +168,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=root4win&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&hide=contribs&rank_icon=github&card_width=600" width="600"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
