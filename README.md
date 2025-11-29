@@ -1,62 +1,92 @@
-# 👋 Hello, I'm root4win
+# 🧿 root4win — Welcome to the Grid
 
-![Hacker Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukhNGm5xQ4aB2/giphy.gif" width="600"/>
+</p>
 
-Welcome to my GitHub profile! Here you'll find my projects, CTF reports, and various experiments in software development, cybersecurity, and data science. All content is intended for **educational purposes**.  
-
----
-
-## 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+> *"The quieter you become, the more you are able to hear."*
+> — **Mr. Robot**
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge\&logo=python\&logoColor=yellow)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Data & ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge\&logo=keras\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5.svg?style=for-the-badge\&logo=scipy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+
+### Backend & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### DevOps & Misc
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge\&logo=unity\&logoColor=white)
 
 ---
 
-## 🐍 Fun & Interactive
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+## 📊 GitHub Intelligence Feed
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=root4win&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=github_dark&hide_border=true&layout=compact"/>
+</p>
 
 ---
 
-## 📈 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=root4win&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 System Activity (Snake Animation)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 👁️ Profile Views
+
+Use este (funciona sempre):
+
+```markdown
+![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=grey&style=flat)
+```
+
+Exemplo já renderizado:
+
+![Profile Views](https://komarev.com/ghpvc/?username=root4win\&color=grey\&style=flat)
 
 ---
 
 ## ⚠️ Disclaimer
-All content here is **for learning and educational purposes only**. Do **not use this knowledge for illegal activities**.  
 
-Happy coding! 🚀
+All content in my repositories — especially CTF reports — is **purely for educational and cybersecurity research purposes**.
+Nothing here should be used in real systems without authorization.
+
+---
