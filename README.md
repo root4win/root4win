@@ -72,14 +72,6 @@
 
 ## 👁️ Profile Views
 
-Use este (funciona sempre):
-
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=grey&style=flat)
-```
-
-Exemplo já renderizado:
-
 ![Profile Views](https://komarev.com/ghpvc/?username=root4win\&color=grey\&style=flat)
 
 ---
