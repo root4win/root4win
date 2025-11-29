@@ -1,18 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROOT4WIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SYSTEM%20BREACH%20IN%20PROGRESS&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=300&section=header&text=ROOT4WIN&fontSize=90&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=◈%20UNAUTHORIZED%20ACCESS%20DETECTED%20◈&descSize=25&descAlignY=55&descAlign=50"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+```
+██████████████████████████████████████████████████████████████████████████████
+█                                                                            █
+█     ██████╗ ███████╗██╗      █████╗ ████████╗██╗██╗   ██╗███████╗        █
+█     ██╔══██╗██╔════╝██║     ██╔══██╗╚══██╔══╝██║██║   ██║██╔════╝        █
+█     ██████╔╝█████╗  ██║     ███████║   ██║   ██║██║   ██║█████╗          █
+█     ██╔══██╗██╔══╝  ██║     ██╔══██║   ██║   ██║╚██╗ ██╔╝██╔══╝          █
+█     ██║  ██║███████╗███████╗██║  ██║   ██║   ██║ ╚████╔╝ ███████╗        █
+█     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝  ╚══════╝        █
+█                                                                            █
+█                     ▓▓▓▓▓▓▓▓▓ CODE RED ▓▓▓▓▓▓▓▓▓                          █
+█                                                                            █
+██████████████████████████████████████████████████████████████████████████████
+```
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=800&lines=PENETRATION+TESTER+%7C+RED+TEAM;CTF+PLAYER+%7C+BUG+HUNTER;MALWARE+ANALYST+%7C+OSINT;%5BACCESS+GRANTED%5D+SYSTEM+BREACHED)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=30&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&repeat=true&random=false&width=1000&height=100&lines=%5BROOT%5D+PENTESTER+%7C+RED+TEAM+OPERATOR;%5BROOT%5D+CTF+PLAYER+%7C+EXPLOIT+DEV;%5BROOT%5D+MALWARE+ANALYST+%7C+REVERSE+ENGINEER;%5BROOT%5D+OSINT+SPECIALIST+%7C+GHOST+PROTOCOL;%5BROOT%5D+SYSTEM+COMPROMISED+-+ACCESS+GRANTED" alt="Typing SVG" />
 
 </div>
 
@@ -21,16 +40,18 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  > IDENTITY: ████████ [CLASSIFIED]                           ║
-║  > LOCATION: ███.███.███.███ [ENCRYPTED]                     ║
-║  > STATUS: ▓▓▓▓▓▓▓▓ [ACTIVE - GHOST MODE]                   ║
-║  > CLEARANCE: ◈◈◈◈◈◈◈ [LEVEL OMEGA]                          ║
-║                                                               ║
-║  "In a world of locked doors, I am the locksmith."           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   █ CLEARANCE LEVEL: OMEGA-7                                             ║
+║   █ IDENTITY: [████████████] REDACTED                                    ║
+║   █ IP ADDRESS: [███.███.███.███] SPOOFED                                ║
+║   █ LOCATION: [SCRAMBLED VIA TOR/VPN CHAIN]                              ║
+║   █ STATUS: ▓▓▓▓▓▓▓▓▓▓ GHOST MODE - ACTIVE                               ║
+║   █ THREAT LEVEL: ⚠️⚠️⚠️⚠️⚠️ MAXIMUM                                        ║
+║                                                                           ║
+║   > "I don't break the rules. I rewrite them in assembly."               ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -45,11 +66,11 @@
 
 <br>
 
-## <div align="center">⚔️ CYBER ARSENAL</div>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+## ⚔️ [ OFFENSIVE SECURITY TOOLKIT ]
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 
 </div>
 
@@ -57,92 +78,40 @@
 
 <div align="center">
 
-### 🔥 PRIMARY WEAPONS
+### 🔴 [ EXPLOITATION LANGUAGES ]
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=000000)
+![Go](https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=000000)
+![Assembly](https://img.shields.io/badge/ASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=007AAC&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000000)
 
-### 🛡️ FRAMEWORKS & TOOLS
+### 🛡️ [ PENETRATION FRAMEWORKS ]
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD&labelColor=000000)
+![Kali](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=000000)
+![Burp](https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burp-suite&logoColor=FF6633&labelColor=000000)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=000000)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
 
-### 💾 DATA SYSTEMS
+### 💾 [ DATA EXFILTRATION ]
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DD0031)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000)
+![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=000000)
+![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=000000)
 
-### 🤖 AI/ML STACK
+### 🧠 [ AI WEAPONIZATION ]
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
-<br>
-
-## <div align="center">📊 NETWORK ACTIVITY DETECTED</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-```
-[████████████████████████████████] 100% - SCANNING COMPLETE
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=chartreuse-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=00FF00" width="500"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF00&icon_color=39FF14&layout=compact&langs_count=8" width="500"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=root4win&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=00FF00&icon_color=39FF14" width="500"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=root4win&bg_color=000000&color=39FF14&line=00FF00&point=39FF14&area=true&hide_border=true" width="100%"/>
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=000000)
+![Keras](https://img.shields.io/badge/KERAS-000000?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=000000)
+![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=000000)
+![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=000000)
 
 </div>
 
@@ -156,12 +125,80 @@
 
 <br>
 
-## <div align="center">🐍 INFILTRATION PATTERN</div>
+<div align="center">
+
+## 📡 [ NETWORK SURVEILLANCE ]
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="500">
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-[DEPLOYING STEALTH PAYLOAD...]
+┌─────────────────────────────────────────────────────────────────┐
+│ [INTERCEPTING DATA PACKETS...]                                  │
+│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%  │
+│                                                                 │
+│ [STATUS] DECRYPTION IN PROGRESS...                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=root4win&theme=radical&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&stroke=39FF14" width="600"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root4win&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&layout=compact&langs_count=10&card_width=600" width="600"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=root4win&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&hide=contribs&rank_icon=github&card_width=600" width="600"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 [ PAYLOAD DELIVERY SYSTEM ]
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ [DEPLOYING POLYMORPHIC PAYLOAD...]                              │
+│ [BYPASSING ANTIVIRUS SIGNATURES...]                             │
+│ [ESTABLISHING C2 CONNECTION...]                                 │
+│ [PAYLOAD INJECTED SUCCESSFULLY] ✓                               │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -183,7 +220,11 @@
 <div align="center">
 
 ```
-[PAYLOAD EXECUTED - TRACE ELIMINATED]
+┌─────────────────────────────────────────────────────────────────┐
+│ [COVERING TRACKS...]                                            │
+│ [ERASING LOGS...]                                               │
+│ [BACKDOOR ESTABLISHED] ✓                                        │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -198,11 +239,11 @@
 
 <br>
 
-## <div align="center">💀 TERMINAL ACCESS</div>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+## 💀 [ SYSTEM SHELL INTERFACE ]
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
 
 </div>
 
@@ -211,28 +252,34 @@
 <div align="center">
 
 ```bash
-┌──(root㉿shadow)-[~]
-└─$ whoami
->>> GHOST_OPERATOR
+╔═══════════════════════════════════════════════════════════════╗
+║                     REMOTE ACCESS TERMINAL                    ║
+╠═══════════════════════════════════════════════════════════════╣
 
-┌──(root㉿shadow)-[~]
-└─$ cat /etc/shadow | grep -i motive  
->>> "The only way to discover the limits of the possible
-    is to go beyond them into the impossible."
+root@shadow:~# whoami
+>>> uid=0(root) gid=0(root) groups=0(root)
 
-┌──(root㉿shadow)-[~]
-└─$ systemctl status ethics.service
-● ethics.service - Ethical Hacking Framework
-   Loaded: loaded (/etc/systemd/system/ethics.service; enabled)
-   Active: active (running) since boot
-   
-┌──(root㉿shadow)-[~]
-└─$ echo $TARGET
->>> Knowledge. Power. Freedom.
+root@shadow:~# cat /proc/self/status | grep -i name
+>>> Name: GHOST_PROTOCOL
 
-┌──(root㉿shadow)-[~]
-└─$ exit
-[Connection terminated]
+root@shadow:~# ls -la /root/.secrets/
+>>> drwxr-xr-x 2 root root 4096 [REDACTED]
+>>> -rw------- 1 root root 2048 private_key.asc
+>>> -rw------- 1 root root 4096 exploit_db.sqlite
+>>> -rw------- 1 root root 8192 zero_days.enc
+
+root@shadow:~# echo $MISSION
+>>> "Hunt the hunters. Hack the hackers. Own the owners."
+
+root@shadow:~# cat /etc/ethics.conf
+>>> [AUTHORIZED_TESTING_ONLY]
+>>> [WHITE_HAT_PROTOCOL_ACTIVE]
+>>> [RESPONSIBLE_DISCLOSURE_ENABLED]
+
+root@shadow:~# history -c && exit
+>>> [Session terminated - No trace left]
+
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -247,11 +294,11 @@
 
 <br>
 
-## <div align="center">🎯 CURRENT OPERATIONS</div>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+## 🎯 [ ACTIVE OPERATIONS ]
+
+<img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="500">
 
 </div>
 
@@ -260,60 +307,21 @@
 <div align="center">
 
 ```
-[█████████░] 90% → Advanced Persistent Threat Research
-[███████░░░] 70% → Zero-Day Vulnerability Discovery  
-[██████████] 100% → CTF Competition Domination
-[████░░░░░░] 40% → AI-Powered Exploit Development
-[██████████] 100% → Maintaining Anonymity
+╔═══════════════════════════════════════════════════════════════╗
+║                     OPERATION STATUS BOARD                    ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  [██████████] 100%  →  CVE Research & Exploit Development    ║
+║  [████████░░]  80%  →  Advanced Persistent Threat Simulation ║
+║  [██████████] 100%  →  CTF Domination & Wargames             ║
+║  [███████░░░]  70%  →  Malware Analysis & Reverse Eng        ║
+║  [█████░░░░░]  50%  →  AI-Powered Attack Vectors             ║
+║  [██████████] 100%  →  Operational Security & Anonymity      ║
+║  [████░░░░░░]  40%  →  Cryptocurrency Tracing & OSINT        ║
+║  [██████████] 100%  →  Physical Security Assessment          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
-<br>
-
-## <div align="center">🔐 SECURITY ADVISORY</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41a2-99c3-5c2ee55e09bc.gif" width="400">
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  ⚠️  CLASSIFIED - FOR AUTHORIZED PERSONNEL ONLY  ⚠️       ║
-║                                                           ║
-║  All demonstrated techniques are for EDUCATIONAL          ║
-║  purposes and AUTHORIZED security assessments.            ║
-║                                                           ║
-║  Unauthorized access to systems is ILLEGAL and            ║
-║  prosecutable under applicable cyber laws.                ║
-║                                                           ║
-║  Practice responsible disclosure and ethical hacking.     ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=0e1117&style=for-the-badge&label=SURVEILLANCE+DETECTED)
 
 </div>
 
@@ -329,16 +337,29 @@
 
 <div align="center">
 
+## 🔥 [ SPECIALIZATIONS & CERTIFICATIONS ]
+
+</div>
+
+<br>
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║         "In the digital realm, I am but a whisper."         ║
-║                                                              ║
-║              >>> TRANSMISSION TERMINATED <<<                ║
-║                                                              ║
-║                    [CONNECTION CLOSED]                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  ☠️  PENETRATION TESTING & RED TEAMING                        ║
+║  ☠️  EXPLOIT DEVELOPMENT & ZERO-DAY RESEARCH                  ║
+║  ☠️  REVERSE ENGINEERING & MALWARE ANALYSIS                   ║
+║  ☠️  SOCIAL ENGINEERING & PHISHING CAMPAIGNS                  ║
+║  ☠️  NETWORK FORENSICS & PACKET ANALYSIS                      ║
+║  ☠️  WEB APPLICATION SECURITY (OWASP TOP 10)                  ║
+║  ☠️  CLOUD INFRASTRUCTURE PENETRATION                         ║
+║  ☠️  CRYPTOGRAPHY & ENCRYPTION BREAKING                       ║
+║  ☠️  OSINT & DIGITAL FOOTPRINT ANALYSIS                       ║
+║  ☠️  AI/ML ADVERSARIAL ATTACKS                                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -347,7 +368,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
@@ -355,7 +376,9 @@
 
 <div align="center">
 
-### 💀 STAY ANONYMOUS - STAY SHARP - STAY GHOST 💀
+## ⚠️ [ LEGAL DISCLAIMER & WARNING ]
+
+<img src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif" width="400">
 
 </div>
 
@@ -363,6 +386,106 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║               ⚠️  RESTRICTED ACCESS - LEVEL 7  ⚠️                 ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  All techniques, methodologies, and tools showcased here are     ║
+║  strictly for EDUCATIONAL PURPOSES and AUTHORIZED security       ║
+║  assessments ONLY.                                               ║
+║                                                                   ║
+║  • Unauthorized access to computer systems is ILLEGAL            ║
+║  • Federal prosecution under CFAA (18 U.S.C. § 1030)             ║
+║  • International laws apply (Budapest Convention)                ║
+║  • Penalties: Fines + imprisonment up to 20 years                ║
+║                                                                   ║
+║  This repository demonstrates DEFENSIVE security research.       ║
+║  Always obtain WRITTEN PERMISSION before testing systems.        ║
+║                                                                   ║
+║  Practice RESPONSIBLE DISCLOSURE and ETHICAL HACKING.            ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=root4win&color=0e1117&style=for-the-badge&label=◈+INTRUSION+ATTEMPTS+◈)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║     ███████╗███╗   ██╗██████╗      ██████╗ ███████╗             ║
+║     ██╔════╝████╗  ██║██╔══██╗    ██╔═══██╗██╔════╝             ║
+║     █████╗  ██╔██╗ ██║██║  ██║    ██║   ██║█████╗               ║
+║     ██╔══╝  ██║╚██╗██║██║  ██║    ██║   ██║██╔══╝               ║
+║     ███████╗██║ ╚████║██████╔╝    ╚██████╔╝██║                  ║
+║     ╚══════╝╚═╝  ╚═══╝╚═════╝      ╚═════╝ ╚═╝                  ║
+║                                                                   ║
+║          ████████╗██████╗  █████╗ ███╗   ██╗███████╗             ║
+║          ╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝             ║
+║             ██║   ██████╔╝███████║██╔██╗ ██║███████╗             ║
+║             ██║   ██╔══██╗██╔══██║██║╚██╗██║╚════██║             ║
+║             ██║   ██║  ██║██║  ██║██║ ╚████║███████║             ║
+║             ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝             ║
+║                                                                   ║
+║              ███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗║
+║              ████╗ ████║██║██╔════╝██╔════╝██║██╔═══██╗████╗  ██║║
+║              ██╔████╔██║██║███████╗███████╗██║██║   ██║██╔██╗ ██║║
+║              ██║╚██╔╝██║██║╚════██║╚════██║██║██║   ██║██║╚██╗██║║
+║              ██║ ╚═╝ ██║██║███████║███████║██║╚██████╔╝██║ ╚████║║
+║              ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝║
+║                                                                   ║
+║                  >>> SIGNAL TERMINATED <<<                        ║
+║                                                                   ║
+║            "In shadows I operate, in silence I strike,           ║
+║                  in darkness I disappear."                        ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="500">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💀 STAY DARK • STAY HIDDEN • STAY LETHAL 💀
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=150&section=footer"/>
 
 </div>
