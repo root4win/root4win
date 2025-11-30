@@ -1,3 +1,9 @@
+<!--
+<meta property="og:image" content="https://root4win.github.io/repositorio/preview.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="640" />
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=300&section=header&text=ROOT4WIN&fontSize=90&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=◈%20BREACH%20DETECTED%20◈&descSize=30&descAlignY=55"/>
