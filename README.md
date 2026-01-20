@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## ⚔️ LINGUAGENS
+## ⚔️ LANGUAGES
 
 ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-## 🖥️ SISTEMAS & FERRAMENTAS
+## 🖥️ SYSTEMS & TOOLS
 
 ![Kali](https://img.shields.io/badge/KALI_LINUX-000?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![Parrot](https://img.shields.io/badge/PARROT_OS-000?style=for-the-badge&logo=parrotsecurity&logoColor=15E3CF)
